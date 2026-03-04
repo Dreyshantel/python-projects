@@ -33,4 +33,3 @@ I’m a DevOps Engineer from Nigeria with a strong passion for designing reliabl
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Email-Email-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oluwasegun2557@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dreyshantel)
